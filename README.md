@@ -1,4 +1,4 @@
-# GoITPythonCourseV2
+# GoITPythonCourseV3
 Lecture materials for python core lectures
 
 
